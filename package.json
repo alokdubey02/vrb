@@ -1,0 +1,12 @@
+{
+  "name": "mern-app",
+  "version": "1.0.0",
+  "main": "vrb-backend/app.js",
+  "scripts": {
+    "start": "node vrb-backend/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
